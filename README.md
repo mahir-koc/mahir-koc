@@ -8,7 +8,7 @@
 
 <div align="left" width="100%">
    
-## :face_with_monocle: About
+## About
 
 - Hello, Mazel is talking. I'm 22 y/o.
 
