@@ -24,7 +24,7 @@
 
 <br />
 
-## :mobile_phone: Me on Media
+## Me on Media
 <div>
    <a href="https://twitter.com/@bot_oci"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
    <a href="https://discord.com/users/168107319274504193"><img src="https://skillicons.dev/icons?i=discord&theme=dark" /></a>
